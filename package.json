@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "esercizio 28 nov",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-hello-world"
+  },
+  "keywords": [
+    "noodles"
+  ],
+  "author": "chris",
+  "license": "ISC"
+}
